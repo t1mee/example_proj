@@ -1,0 +1,36 @@
+@import "~bootstrap/scss/bootstrap";
+
+.my-nav-style{
+    height: 56px;
+}
+
+.header{
+    background: #E9ECEF;
+    min-height: 342px;
+    display: flex;
+    align-items: center;
+    .header-child{
+        max-width: 768px;
+        margin-left: 55px;
+    }
+}
+
+.my-cards-style {
+    max-width: 768px;
+    margin-left: 55px;
+}
+
+.my-tale-style{
+    margin: auto 55px;
+}
+
+.bottom {
+    margin-top: 73px;
+    display: flex;
+    align-items: center;
+    height: 51px;
+    background: #F5F5F5;
+    .bottom-child{
+        margin-left: 55px;
+    }
+}
